@@ -1,7 +1,7 @@
 
 # EEstring
 
-End - to - End Encrypted Message Exchange Server and client by PGP key
+End - to - End Encrypted Message Exchange Server and client by RSA public key
 
 ## Compile
 
